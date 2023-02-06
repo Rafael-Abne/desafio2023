@@ -10,7 +10,7 @@
 
 ### :desktop_computer:  2 DESAFIO - CRUD DE LEADS
 
-- Conclua o crud do dashboard-prominasunica da tabela leads(adicionar, editar e atualizar leads), as telas já estão prontas, basta concluir o back-end
+- Conclua o crud do dashboard-prominasunica da tabela leads(adicionar, editar, atualizar e remover leads), as telas já estão prontas, basta concluir o back-end
 
 <br><br>
 ### :desktop_computer:  3 DESAFIO - LARAVEL - MATRÍCULA
